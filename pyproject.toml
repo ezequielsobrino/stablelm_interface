@@ -1,0 +1,18 @@
+[project]
+name = "StableLMInterface"
+version = "0.0.1"
+authors = [
+  { name="Ezequiel Sobrino", email="ezequielsobrino@gmail.com" },
+]
+description = "provides a simple interface for working with the StableLM language model from StabilityAI. It includes functions for initializing the model, generating text, and customizing the text generation process."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ezequielsobrino/stablelm_interface"
+"Bug Tracker" = "https://github.com/ezequielsobrino/stablelm_interface/issues"

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: stablelm-interface
+Version: 0.1
+Summary: provides a simple interface for working with the StableLM language model from StabilityAI. It includes functions for initializing the model, generating text, and customizing the text generation process.
+Author: Ezequiel Sobrino
+Author-email: ezequiel.sobrino@gmail.com
+License-File: LICENSE
